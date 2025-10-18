@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+.python-version
+
+# Distribution / build
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
